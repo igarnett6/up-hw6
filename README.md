@@ -1,4 +1,4 @@
-# A simple shell (in C)
+# A simple messenger (in C)
 
 ## Description
 A simple messenger allowing you to send messages between a server and client. After starting the server, it will wait for a client to connect. If the client chooses to terminate the connection, the server will wait for another client to connect. If the server chooses to terminate a connection with a client, the client will exit. To terminate the server, hit `ctrl+c`.
